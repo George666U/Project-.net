@@ -1,0 +1,12 @@
+apiVersion: apps/v1
+kind: Service
+metadata:
+   name: hotelservice-srv
+spec:
+  type: NodePort
+  selector: hotelservice
+  ports: 
+    - name: hotelservice
+      protocol: TCP
+      port: 80
+      targetPort: 80
