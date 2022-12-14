@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HotelService",
+    "\\HotelServiceTests",
+    "\\HotelService\\Controllers"
+  ],
+  "SelectedNode": "\\HotelServiceTests\\HotelServiceTests.csproj",
+  "PreviewInSolutionExplorer": false
+}
